@@ -7,7 +7,8 @@ Hardware Used :
     2. L298D Motor Driver
     3. N20 Geared Motors and wheels
     4. 8 channel IR sensor Array
-    5. BreadBoard, Jumper Wire, Verro Board, etc
+    5. Li. ion battery
+    6. BreadBoard, Jumper Wire, Verro Board, etc
 
 Software Used :
 
@@ -15,3 +16,5 @@ Software Used :
 
 
 The algorithm for the bot is based on the PID controller, the proportional, differential and Integral controller, with support for the edge cases. 
+
+Video Demo : https://youtu.be/obI7qen9Vb4
